@@ -1,6 +1,8 @@
 # Getting Started Solution Template
 new
 hello
+
+sdafasdfa
 This page describes the project structure used to set and update a Solution. Solution templates can be used in two distinct ways:
 - To publish it as template element on the Murano Exchange marketplace to make it available from other Murano businesses. In such case the source code and repo is obfuscated for the template users.
 
