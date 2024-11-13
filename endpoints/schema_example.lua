@@ -6,7 +6,7 @@ return 'OK'
 --#ENDPOINT POST /pets
 --#TAGS schema
 --#SECURITY none
-return { name="aaa", id="a1" }
+return { name="aaabbbbcccc", id="a1" }
 
 --#ENDPOINT GET /pets/{id}
 --#TAGS schema
