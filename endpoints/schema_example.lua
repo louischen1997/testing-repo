@@ -11,7 +11,7 @@ return { name="aaabbbbcccc", id="a1" }
 --#ENDPOINT GET /pets/{id}
 --#TAGS schema
 --#SECURITY none
-return { name="cat kev", id="b1" }
+return { name="cat kev2", id="b1" }
 
 --#ENDPOINT DELETE /pets/{id}
 --#TAGS schema
